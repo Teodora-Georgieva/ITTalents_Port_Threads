@@ -1,0 +1,11 @@
+Dock1
+    2021-03-09T14:35:01.608320400 - Shipment_1, ship Ship1, crane Crane2
+    2021-03-09T14:35:04.177116300 - Shipment_2, ship Ship1, crane Crane2
+    2021-03-09T14:35:06.196517300 - Shipment_3, ship Ship1, crane Crane2
+    2021-03-09T14:35:08.206638400 - Shipment_4, ship Ship1, crane Crane2
+
+Dock5
+    2021-03-09T14:35:10.225915300 - Shipment_5, ship Ship2, crane Crane2
+    2021-03-09T14:35:12.235523300 - Shipment_6, ship Ship2, crane Crane2
+    2021-03-09T14:35:14.246065 - Shipment_7, ship Ship2, crane Crane2
+

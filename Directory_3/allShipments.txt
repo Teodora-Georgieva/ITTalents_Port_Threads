@@ -1,0 +1,19 @@
+Dock1
+    2021-03-09T14:35:01.608320400 - Shipment_1, ship Ship1, crane Crane2
+    2021-03-09T14:35:04.177116300 - Shipment_2, ship Ship1, crane Crane2
+    2021-03-09T14:35:06.196517300 - Shipment_3, ship Ship1, crane Crane2
+    2021-03-09T14:35:08.206638400 - Shipment_4, ship Ship1, crane Crane2
+    2021-03-09T14:35:51.315839600 - Shipment_8, ship Ship3, crane Crane1
+    2021-03-09T14:35:53.334916700 - Shipment_9, ship Ship3, crane Crane1
+    2021-03-09T14:35:55.342733700 - Shipment_10, ship Ship3, crane Crane1
+    2021-03-09T14:35:57.354394900 - Shipment_11, ship Ship3, crane Crane1
+    2021-03-09T14:36:19.392139100 - Shipment_12, ship Ship4, crane Crane1
+
+Dock5
+    2021-03-09T14:35:10.225915300 - Shipment_5, ship Ship2, crane Crane2
+    2021-03-09T14:35:12.235523300 - Shipment_6, ship Ship2, crane Crane2
+    2021-03-09T14:35:14.246065 - Shipment_7, ship Ship2, crane Crane2
+    2021-03-09T14:36:26.417899300 - Shipment_13, ship Ship5, crane Crane1
+    2021-03-09T14:36:28.445135800 - Shipment_14, ship Ship5, crane Crane1
+    2021-03-09T14:36:30.452907900 - Shipment_15, ship Ship5, crane Crane1
+

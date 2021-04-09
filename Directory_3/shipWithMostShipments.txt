@@ -1,0 +1,7 @@
+Ship1 - 4 shipments
+Ship3 - 4 shipments
+Ship5 - 4 shipments
+Ship2 - 3 shipments
+Ship4 - 1 shipments
+
+Ship with most shipments: Ship1
